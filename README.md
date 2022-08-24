@@ -16,3 +16,4 @@ Projeto que realizei na Trybe, ele tem com objetivo criar uma aplicação onde a
     - addEventListener
     - getElementBy
     - querySelector
+    - etc..
