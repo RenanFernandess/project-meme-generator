@@ -5,7 +5,7 @@
 
 ![Meme Generator Screen Shot](./projectImage.png)
 
-Projeto que realizei na Trybe, ele tem com objetivo criar uma aplicação onde a pessoa usuária pode fazer upload de uma imagem e criar um meme com ela adicionando um testo. Esse projeto também tem como objetivo fixar os aprendizados sobre DOM ale de proporcionar a busca de novos conhecimentos.
+Projeto que realizei na [Trybe](https://github.com/tryber), ele tem como objetivo criar uma aplicação onde a pessoa usuária pode fazer upload de uma imagem e criar um meme com ela adicionando um texto. Esse projeto também tem como objetivo fixar os aprendizados sobre DOM além de proporcionar a busca de novos conhecimentos.
 
 ### Aprendisados
   1. Pegar o valor de um input do tipo file converter em URL e adicinar o arquivo na tela.
